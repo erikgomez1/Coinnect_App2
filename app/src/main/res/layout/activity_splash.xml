@@ -13,6 +13,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:src="@drawable/logocoinnect"
-       android:contentDescription="Logo de la app"/>
+       android:contentDescription="@string/app_name"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
