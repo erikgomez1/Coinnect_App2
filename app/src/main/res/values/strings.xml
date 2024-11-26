@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coinnect</string>
+    <string name="btn1">Aceptar</string>
+    <string name="bienvenida">Bienvenido a Coinnect</string>
+    <string name="User">Introduce su usuario</string>
+    <string name="acerca">Usuario %s , Usted esta usando la version 1.0</string>
+    <string name="info">Esta aplicacion se trata de una red social relacionada con las criptomonedas para publicar tendencias, estrategias de marketing entre otras</string>
+    <string name="btn2">Soporte</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
